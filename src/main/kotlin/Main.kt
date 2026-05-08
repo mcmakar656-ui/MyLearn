@@ -1,3 +1,3 @@
 fun main(){
-    println("wdwdwd")
+    println("w")
 }

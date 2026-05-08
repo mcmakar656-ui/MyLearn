@@ -1,3 +1,3 @@
 fun main(){
-    println("Hellow test")
+    println("wdwdwd")
 }
